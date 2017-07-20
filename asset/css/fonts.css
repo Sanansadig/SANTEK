@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'JISAZNBold';
+  src: url("../Fonts/jaznb.eot");
+  src: url("../Fonts/jaznb.eot?#iefix") format("embedded-opentype"), url("../Fonts/jaznb.woff") format("woff"), url("../Fonts/jaznb.ttf") format("truetype"), url("../Fonts/jaznb.svg#jaznb") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Righteous';
+  src: url("../Fonts/OFL.txt");
+  src: url("../Fonts/Righteous-Regular.ttf");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'RobotoSlab-Thin';
+  src: url("../Fonts/OFL.txt");
+  src: url("../Fonts/RobotoSlab-Thin.ttf");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url("../Fonts/OFL.txt");
+  src: url("../Fonts/Roboto-Light.ttf");
+  font-weight: normal;
+  font-style: normal; }
+
+/*# sourceMappingURL=fonts.css.map */
